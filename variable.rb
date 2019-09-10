@@ -2,5 +2,5 @@
  # give it the value of the string "Hello World"
 def get_variable_from_file(file,variable)
   greeting = 'Hello World'
-  puts '#{greeting}'
+  puts '#{variable}'
 end
