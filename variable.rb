@@ -4,4 +4,3 @@ def get_variable_from_file(variable)
   greeting = 'Hello World'
   puts greeting
 end
-end
